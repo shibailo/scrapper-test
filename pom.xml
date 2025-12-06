@@ -13,6 +13,7 @@
 		<module>domain</module>
 		<module>api</module>
 		<module>app</module>
+		<module>wikiclient</module>
 		<module>jsonwikiclient</module>
 		<module>htmlwikiclient</module>
 		<module>persistence</module>
